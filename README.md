@@ -11,6 +11,7 @@ Step 2: to add form validation to the contact form
 
 Step 3: Run the code and check for any errors then correct them if there is any. 
 
+Project: Timetable for yoga centre: 
 
 Timetable Project Files: main.js
 
