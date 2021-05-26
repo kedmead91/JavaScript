@@ -11,6 +11,7 @@ Step 2: to add form validation to the contact form
 
 Step 3: Run the code and check for any errors then correct them if there is any. 
 
+
 Timetable Project Files: main.js
 
 Task: Step 1: To create a table for a yoga centre to show the times and dates of classes
